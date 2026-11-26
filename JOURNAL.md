@@ -23,3 +23,12 @@ Today i added the battery bracket onto the backplate, added screw lock and clip 
 ![journal](images/journal/journal2.3.png)
 
 **Total time spent: 3 hours**
+
+# November 26: Designed back cover for custom acrylic sheet
+
+I wanted to make the back cover transparent so it looks nice, but if i 3d print it, it will cost a lot and the transparency might not be what i wanted.. so i decided to use acrylic board they cost the halve of a 3d printed one and has great transparency! I designed it in autocad and It’s a pure nightmare bro It’s my first time using and it literally took me 1 hour to design just a few shapes.. later i realised i could also do the same in fusion 360 in just 5 minute. but anyways great experience.
+
+![journal](images/journal/journal3.1.png)
+
+**Total time spent: 1 hours**
+

@@ -16,7 +16,7 @@ I got the 3d model for the epaper panel and the pcb, so i worked on the backplat
 
 # November 25: Worked on backplate and case in Fusion
 
-Today i added the battery bracket onto the backplate, added screw lock and clip for the backplate so it can be secured on the case, added type c connector and button cutout on the case, and optitmised the overall case thickness from ~20mm to 17mm. Took me a while to design the backplate mount for the case because i literally have no where to put screws, so i can only make a clip.  
+Today i added the battery bracket onto the backplate, added screw lock and clip for the backplate so it can be secured on the case, added type c connector and button cutout on the case, and optitmised the overall case thickness from ~20mm to 17mm. Took me a while to design the backplate mount for the case because i literally have no where to put screws, so i can only make a clip. Anyways its sent for 3d printing!  
 
 ![journal](images/journal/journal2.1.png)
 ![journal](images/journal/journal2.2.png)

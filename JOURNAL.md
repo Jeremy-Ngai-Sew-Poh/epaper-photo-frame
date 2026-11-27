@@ -32,3 +32,9 @@ I wanted to make the back cover transparent so it looks nice, but if i 3d print 
 
 **Total time spent: 1 hours**
 
+# November 27: Added battery ADC to check battery voltage
+
+I worked on the code to use esp32's adc feature to get analog read on the battery pin and then calculated its voltage and battery level. the first time i tested no matter what the battery voltage says 0 even though the enable mosfet pin is high, i forgot to add a delay() after enabling the pin lol.
+
+![journal](images/journal/journal4.1.png)
+

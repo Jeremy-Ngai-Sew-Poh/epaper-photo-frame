@@ -38,3 +38,4 @@ I worked on the code to use esp32's adc feature to get analog read on the batter
 
 ![journal](images/journal/journal4.1.png)
 
+**Total time spent: 1 hours**

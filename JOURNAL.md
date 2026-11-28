@@ -39,3 +39,11 @@ I worked on the code to use esp32's adc feature to get analog read on the batter
 ![journal](images/journal/journal4.1.png)
 
 **Total time spent: 1 hours**
+
+# November 28: Added bitmap array fetching from github using personal access token
+
+I wrote the code for the esp32 to connect to wifi to download .bin file from my private github repo using pat so i can update photo remotely without using sd card or reflashing. Just discovered that we can use pat so that my photos stays private.
+
+![journal](images/journal/journal5.1.png)
+
+**Total time spent: 1 hours**
